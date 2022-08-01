@@ -25,3 +25,13 @@ This is my personal view of Hebrew alphabet.
 
 
 
+### Tables
+
+| Letter    |     Description    | Prononciation |
+| --- | --- | --- |
+| ה  |  One of the leg of the table has a problem! He!   |   h  |
+|  ח  |   This table is solid. A lot of strength like the jota in Spanish. |  ch like in Bach  |
+|   ת |  A **t**able which is pretty.  |  t  |
+
+
+|    |    |    |
